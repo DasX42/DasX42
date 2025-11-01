@@ -2,7 +2,7 @@
 
 ###
 
-<div>
+<div align="center>
     <p aligt="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,html,css,js" />
