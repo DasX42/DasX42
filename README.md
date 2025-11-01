@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="60"   />
+  <img src="https://skillicons.dev/icons?i=vscode" height="70"   />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60"  />
   <img width="12" />
