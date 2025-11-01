@@ -2,14 +2,22 @@
 
 ###
 
-<div>
-    <p aligt="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,html,css,js" height="60" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="60"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60"  />
+  <img width="12" />
 </div>
-
 
 
 
