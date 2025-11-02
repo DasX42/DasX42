@@ -19,6 +19,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="70"   />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="70"   />
+  <img width="12" />
+
+
+  
   <!--
   <img src="https://skillicons.dev/icons?i=ts" height="60"   />
   <img width="12" />
