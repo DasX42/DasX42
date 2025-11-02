@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="70"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notejs" height="70"   />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="70"   />
   <img width="12" />
   <!--
   <img src="https://skillicons.dev/icons?i=ts" height="60"   />
